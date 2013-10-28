@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/lineEdit_n.png</file>
+        <file>image/lineEdit_p.png</file>
+        <file>image/tigerlogo.png</file>
+        <file>image/check_n.png</file>
+        <file>image/check_no_n.png</file>
+        <file>image/check_no_p.png</file>
+        <file>image/check_p.png</file>
+        <file>image/close_h.png</file>
+        <file>image/close_n.png</file>
+        <file>image/close_p.png</file>
+        <file>image/minBtn_h.png</file>
+        <file>image/minBtn_n.png</file>
+        <file>image/minBtn_p.png</file>
+        <file>image/tiger_bg_400.png</file>
+        <file>image/tiger_bg_1.png</file>
+        <file>image/bg_2.png</file>
+        <file>image/button.png</file>
+        <file>image/button_1.png</file>
+        <file>image/keyboard.png</file>
+        <file>image/btn.jpg</file>
+        <file>image/bg1.png</file>
+    </qresource>
+</RCC>
